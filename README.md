@@ -28,7 +28,7 @@ Let’s keep building, learning, and creating together! 🚀
 📌 **Ekstra İlgi:** Sürdürülebilirlik, kullanıcı deneyimi, minimal tasarım
 
 Daha fazlası için profilime göz atabilirsin 👇  
-[github.com/Esrakgun](https://github.com/Esrakgun)
+Vercel: https://portfolio-ea-sage.vercel.app/
 
 # 📸Ekran Görüntüsü:
 
